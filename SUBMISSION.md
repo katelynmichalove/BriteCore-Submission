@@ -4,7 +4,7 @@
 
 1. I spent one day (24 hour period) on the project. Given more time I would perform preference testing for the UI with agents that use the widget. I would also perform usability testing to see how they use it with a customer and if they run into any difficulties especially when determining quality of the house. I would also discuss with the agent whether or not they prefer an automatic calculation or an initiated calculation. I would also look into the imagery and see if the images help the agent in answering the question or if just the description itself is all that is needed or if better images are needed. 
 
-2. The biggest change I made had to do with the quality question. When putting myself in the agent’s position, it seemed difficult to be on the phone helping a user decide on a quality when they have to click on each quality to get a description. Having the descriptions available without clicking allows the agent to quickly answer any questions the customer may have about the quality choices. I also changed the language used for the quality levels. The level data remains the same but the words to describe each level has changed. This is due to discussions with homeowners and how they perceive quality. This will help the user have an easier discussion with homeowners. The other questions on the form are very straight forward and have one clear answer, therefore I didn’t focus my time on those. 
+2. The biggest change I made had to do with the quality question. When putting myself in the agent’s position, it seemed difficult to be on the phone helping a user decide on a quality when they have to click on each quality to get a description. Having the descriptions available without clicking allows the agent to quickly answer any questions the customer may have about the quality choices. I also changed the language used for the quality levels. The level data remains the same but the words to describe each level has changed. This is due to discussions with homeowners and how they perceive quality. This will help the user have an easier discussion with homeowners. The other questions on the form are very straight forward and have one clear answer, therefore I didn’t focus my time on those. I also chose to put the quality question last so it is less intrusive in the beginning and warms up the conversation if a conversation is being had at the same time it is being filled out. 
 
 3. To validate my design, I would put together a prototype that showed the inactive and active field states as the agent worked through the form. I would have the agent use the prototype with one of their potential users. I would observe any hesitations, difficulties, and barriers in completing the form. I would want to look at the agent’s screen to see how they navigate and I would want to hear the conversation they have for language improvements on the form. This is assuming that the agent is filling it out while talking with a customer. If they are filling it out independently I would just need to see their screen, what information they have while they are filling it out, and what issues they are having. I utilize Steve Krug’s usability script in order to collect the qualitative data. If there are no difficulties or hesitations I would say that my design is valid and the user story is accomplished with ease. 
 
@@ -18,6 +18,7 @@
 - This design is for a specific widget and therefore won’t include the entire browser design. 
 - This form will be used by the client to assist a customer. Therefore the language used must match the type of language the client will want to use when addressing the customer. The questions should be quickly identifiable for an ease of conversation. 
 - This widget will be used in a professional environment which means the visual design should be trustworthy, clean, and professional. 
+- The agent needs a description of the quality levels in order to make a selection.
 - User Story:  As an agent using BriteCore, I am able to quickly get a replacement cost estimate for my customer, so that they can have the correct amount of homeowner's insurance.
 
 ## Questions
@@ -31,6 +32,7 @@
 - Should it be customer initiated or should it automatically calculate when the answers are put in? 
 - Does the agent have an image of the customer’s house when choosing the quality or is it a verbal selection when talking with the customer?
 - Does the square footage include deck areas?
+- How much does the agent know about the levels of home quality? Do they simply need the word to remind them or do they need a detailed description to help them?
 
 ## Research
 
