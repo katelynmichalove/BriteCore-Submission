@@ -1,5 +1,16 @@
 # Take-home Submission
 
+## Follow Up Answers
+
+1. I spent one day (24 hour period) on the project. Given more time I would perform preference testing for the UI with agents that use the widget. I would also perform usability testing to see how they use it with a customer and if they run into any difficulties especially when determining quality of the house. I would also discuss with the agent whether or not they prefer an automatic calculation or an initiated calculation. I would also look into the imagery and see if the images help the agent in answering the question or if just the description itself is all that is needed or if better images are needed. 
+
+2. The biggest change I made had to do with the quality question. When putting myself in the agent’s position, it seemed difficult to be on the phone helping a user decide on a quality when they have to click on each quality to get a description. Having the descriptions available without clicking allows the agent to quickly answer any questions the customer may have about the quality choices. I also changed the language used for the quality levels. The level data remains the same but the words to describe each level has changed. This is due to discussions with homeowners and how they perceive quality. This will help the user have an easier discussion with homeowners. The other questions on the form are very straight forward and have one clear answer, therefore I didn’t focus my time on those. 
+
+3. To validate my design, I would put together a prototype that showed the inactive and active field states as the agent worked through the form. I would have the agent use the prototype with one of their potential users. I would observe any hesitations, difficulties, and barriers in completing the form. I would want to look at the agent’s screen to see how they navigate and I would want to hear the conversation they have for language improvements on the form. This is assuming that the agent is filling it out while talking with a customer. If they are filling it out independently I would just need to see their screen, what information they have while they are filling it out, and what issues they are having. I utilize Steve Krug’s usability script in order to collect the qualitative data. If there are no difficulties or hesitations I would say that my design is valid and the user story is accomplished with ease. 
+
+4. Josefin Sans most matches my personality. It is what I chose for my portfolio branding. It is vintage inspired yet a modern geometric sans serif. I consider myself often inspired by the vintage but I always have a modern take. The X-height to cap height ratio shows a lot of dimensions and change. I consider myself very open to change, always trying to grow personally and professionally. It also reminds me of the mountains which I don’t think I could live without! I love the slanted e used in the typeface. It gives a subtle and unique twist which I feel most everyone, including me, has. It also appears friendly and open to others which I consider myself to be.
+
+
 ## Assumptions
 
 - BriteCore is a web-based software therefore the high fidelity mockup should be a desktop view. 
