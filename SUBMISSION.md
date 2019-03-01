@@ -97,5 +97,5 @@ Ordering was changed based on research and going from a basic question to a more
     - Paragraph - Highest quality materials and features. Extra amenities and materials such as a china sink or oak cabinets. 
 - H4 - $228,000
 
-![Wireframes](BriteCore-Submission/wireframe_sketches.jpeg)
+![Wireframes](https://github.com/katelynmichalove/BriteCore-Submission/blob/master/wireframe_sketches.jpeg)
       
